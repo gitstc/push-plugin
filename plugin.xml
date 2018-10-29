@@ -59,6 +59,8 @@
 			</receiver>
 		</config-file>
 
+		<hook type="after_platform_add" src="hooks/fix_gradle.js" />
+
 		<source-file src="src/android/com/plugin/gcm/CordovaGCMBroadcastReceiver.java" target-dir="src/com/plugin/gcm/"/>
 		<source-file src="src/android/com/plugin/gcm/PushHandlerActivity.java" target-dir="src/com/plugin/gcm/"/>
 		<source-file src="src/android/com/plugin/gcm/PushPlugin.java" target-dir="src/com/plugin/gcm/"/>
