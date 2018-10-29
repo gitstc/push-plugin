@@ -1,0 +1,52 @@
+{
+  "_from": "git+https://github.com/gitstc/push-plugin.git",
+  "_id": "cordova-push-plugin-stc@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-push-plugin-stc",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/gitstc/push-plugin.git",
+    "rawSpec": "https://github.com/gitstc/push-plugin.git",
+    "saveSpec": "git+https://github.com/gitstc/push-plugin.git",
+    "fetchSpec": "https://github.com/gitstc/push-plugin.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/gitstc/push-plugin.git#59d63c5562f7ae71a7553844c3c5e6ffa9f3cfc9",
+  "_spec": "https://github.com/gitstc/push-plugin.git",
+  "_where": "D:\\Mobile\\AlmanhalSchool",
+  "bugs": {
+    "url": "https://github.com/gitstc/push-plugin/issues"
+  },
+  "bundleDependencies": false,
+  "cordova_name": "Push Notifications",
+  "deprecated": false,
+  "description": "This plugin allows your application to receive push notifications.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/gitstc/push-plugin#readme",
+  "issue": "https://github.com/gitstc/push-plugin/issues",
+  "keywords": [],
+  "license": "MIT",
+  "name": "cordova-push-plugin-stc",
+  "platforms": [
+    "ios",
+    "android",
+    "wp8"
+  ],
+  "repo": "https://github.com/gitstc/push-plugin.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitstc/push-plugin.git"
+  },
+  "version": "1.0.0"
+}
